@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
-<h3 align="center">I'm a Junior QA Engineer with glowing eyes from Russia</h3>
+<h3 align="center">I'm a Junior QA Engineer with glowing eyes from Russia </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="300"/>
@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evgeniyvoronov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniyvoronov" height="30" width="40" /></a>
+<a href="https://t.me/evgenisgusia" target="blank"><img align="center" src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-source-240px.svg" alt="evgenisgusia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
