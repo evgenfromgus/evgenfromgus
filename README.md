@@ -18,6 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/ru-ru/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/pycharm-svgrepo-com.svg" alt="pycharm" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/> </a> 
 <a href="https://www.atlassian.com/ru/software/jira" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/> </a> 
@@ -29,10 +30,10 @@
 <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" alt="gitlab" width="40" height="40"/> </a> 
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a> 
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/kompr/Downloads/pycharm-svgrepo-com.svg" alt="figma" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://community.miro.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/miro-seeklogo.com.svg" alt="miro" width="40" height="40"/> </a> 
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/wireshark-seeklogo.com.svg" alt="wireshark" width="40" height="40"/> </a>   
 </p>
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evgenfromgus&show_icons=true&locale=en" alt="evgenfromgus" /></p>
 
