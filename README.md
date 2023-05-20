@@ -30,6 +30,7 @@
 <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio" width="40" height="40"/> </a> 
 <a href="https://slack.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="file:///C:/Users/kompr/Downloads/pycharm-svgrepo-com.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 
