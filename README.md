@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Evgeniy</h1>
-<h3 align="center">I'm a Junior QA Engineer with glowing eyes from Russia </h3>
+<h3 align="center">I'm a Junior QA Engineer with glowing eyes </h3>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="300"/>
