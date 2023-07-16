@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="300"/>
 </div>
-<p><h2 align="center"><a href="https://github.com/evgenfromgus/Portfolio">	&#127891 All my cases and information about me, you can see here ! 	&#127891;</a></h2></p>
+<p><h2 align="center"><a href="https://github.com/evgenfromgus/Portfolio">	&#127891 All my cases, you can see here ! 	&#127891;</a></h2></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgenfromgus&label=Profile%20views&color=0e75b6&style=flat" alt="evgenfromgus" /> </p>
 
