@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evgenfromgus" alt="evgenfromgus" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 	&#128241 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/evgeniyvoronov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evgeniyvoronov" height="30" width="40" /></a>
 <a href="https://t.me/evgenisgusia" target="blank"><img align="center" src="https://gist.githubusercontent.com/m8rge/4c2b36369c9f936c02ee883ca8ec89f1/raw/c03fd44ee2b63d7a2a195ff44e9bb071e87b4a40/telegram-source-240px.svg" alt="evgenisgusia" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> &#128736 Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.jetbrains.com/ru-ru/pycharm/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/pycharm-svgrepo-com.svg" alt="pycharm" width="40" height="40"/> </a> 
