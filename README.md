@@ -4,6 +4,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="300"/>
 </div>
+<p>
+<h3 align="left"> &#128064 About me:</h3>
+<h3 align="left">
+I am a manual tester learning test automation in Python. I constantly study new technologies, methods and tools 
+related to testing in order to keep abreast of the latest trends and apply them in practical work. I actively 
+participate in online courses, reading professional books and forums where I can learn from experienced professionals. 
+I also look forward to participating in professional conferences and meetups to share knowledge and connect with 
+colleagues from the testing industry. All this helps me not only develop as a test automator, but also bring great 
+value to the team and achieve high results.
+</h3></p>
+
+<p align="left">
 <p><h2 align="center"><a href="https://github.com/evgenfromgus/Portfolio">	&#127891 All my cases, you can see here ! 	&#127891;</a></h2></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgenfromgus&label=Profile%20views&color=0e75b6&style=flat" alt="evgenfromgus" /> </p>
