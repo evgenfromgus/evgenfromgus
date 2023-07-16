@@ -4,6 +4,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/LBWDvBC8F5kbxOI8Ms/giphy.gif" width="300"/>
 </div>
+<p><h3><a href="https://github.com/evgenfromgus/Portfolio">All my cases and infomation about me, you can see here !</a></h3></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evgenfromgus&label=Profile%20views&color=0e75b6&style=flat" alt="evgenfromgus" /> </p>
 
@@ -34,7 +35,6 @@
 <a href="https://community.miro.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/cdnlogo.com_miro.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/wireshark.svg" alt="wireshark" width="40" height="40"/> </a>   
 
-<h3><a href="https://github.com/evgenfromgus/Portfolio">All my cases and infomation about me, you can see here !</a></h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evgenfromgus&show_icons=true&locale=en" alt="evgenfromgus" /></p>
