@@ -46,6 +46,9 @@ value to the team and achieve high results.
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://community.miro.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/cdnlogo.com_miro.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/evgenfromgus/evgenfromgus/main/icon/wireshark.svg" alt="wireshark" width="40" height="40"/> </a>   
+<a href="https://www.charlesproxy.com/" target="_blank" rel="noreferrer"> <img src="icon/charles_icon.svg" alt="miro" width="40" height="40"/> </a> 
+<a href="https://mattermost.com/" target="_blank" rel="noreferrer"> <img src="icon/mattermost-logo-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="icon/notion-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
 
 
 
