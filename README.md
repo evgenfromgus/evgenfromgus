@@ -53,7 +53,7 @@ value to the team and achieve high results.
 <a href="https://www.google.com/intl/ru/sheets/about/" target="_blank" rel="noreferrer"> <img src="icon/icons8-google-sheets.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="icon/devtools.png" alt="miro" width="40" height="40"/> </a> 
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="icon/swagger-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
-<a href="https://app.qase.io/" target="_blank" rel="noreferrer"> <img src="icon/Qaseio.png" alt="miro" width="50" height="50"/> </a> 
+<a href="https://app.qase.io/" target="_blank" rel="noreferrer"> <img src="icon/Qaseio.png" alt="miro" width="40" height="40"/> </a> 
 
 
 
