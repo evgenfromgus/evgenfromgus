@@ -50,10 +50,11 @@ value to the team and achieve high results.
 <a href="https://mattermost.com/" target="_blank" rel="noreferrer"> <img src="icon/mattermost-logo-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"> <img src="icon/notion-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="https://sitechco.ru/" target="_blank" rel="noreferrer"> <img src="icon/sitechko.png" alt="miro" width="40" height="40"/> </a> 
-<a href="https://www.google.com/intl/ru/sheets/about/" target="_blank" rel="noreferrer"> <img src="icon/icons8-google-sheets.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="" target="_blank" rel="noreferrer"> <img src="icon/devtools.png" alt="miro" width="40" height="40"/> </a> 
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="icon/swagger-svgrepo-com.svg" alt="miro" width="40" height="40"/> </a> 
 <a href="https://app.qase.io/" target="_blank" rel="noreferrer"> <img src="icon/Qaseio.png" alt="miro" width="40" height="40"/> </a> 
+<a href="https://docs.google.com/document/u/0/?hl=ru" target="_blank" rel="noreferrer"> <img src="icon/icons8-google-docs.svg" alt="miro" width="40" height="40"/> </a> 
+<a href="https://www.google.com/intl/ru/sheets/about/" target="_blank" rel="noreferrer"> <img src="icon/icons8-google-sheets.svg" alt="miro" width="40" height="40"/> </a> 
 
 
 
